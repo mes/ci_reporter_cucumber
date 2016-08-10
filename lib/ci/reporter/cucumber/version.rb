@@ -1,7 +1,7 @@
 module CI
   module Reporter
     class Cucumber
-      VERSION = "1.0.2"
+      VERSION = "1.3.20"
     end
   end
 end
